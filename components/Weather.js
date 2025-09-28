@@ -52,6 +52,10 @@ const Weather = () => {
           </div>
         </div>
       )}
+         {/* Copyright added here */}
+      <div className="copyright">
+        <small>&copy; 2025 All rights reserved to MS Corporation</small>
+      </div>
     </div>
   );
 };
